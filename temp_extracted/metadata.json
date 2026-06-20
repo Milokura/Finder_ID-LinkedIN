@@ -1,0 +1,6 @@
+{
+  "name": "LinkedIn Profile ID Finder",
+  "description": "Herramienta completa para obtener el identificador único (ID) asociado a un perfil público de LinkedIn mediante múltiples métodos: extracción en vivo, pegado manual de HTML, bookmarklet de navegador y resolución inteligente con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
